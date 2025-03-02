@@ -1,0 +1,46 @@
+p{font-size: 25px ;}
+
+h1{text-align: center; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic; color:darkslategray;}
+
+li{font-size: 22px;}
+
+body{background-color: beige;}
+
+#ss{width: 15em ;}
+
+section{width: 50em;}
+
+main{display: flex;}
+
+img{width: 20em;
+height: 15em;}
+
+div{text-align: center;}
+
+#tt{width: 50em;
+ height: 30em;} 
+
+ caption{text-align: center;}
+
+figure{text-align: center;}
+
+figcaption{font-size: 1cm;}
+
+#mm{width: 100%;height: 10em;}
+
+a:hover{background-color: rgb(239, 226, 191);color: darkgoldenrod;}
+a{color: brown;text-decoration: none;}
+
+th{font-size: 30px;border: solid;border-color: brown; background-color: rgb(206, 206, 181);}
+
+table{border: solid ;border-collapse: collapse; border-color: brown;}
+
+td{border: solid;font-size: 25px;border-color: brown;font-family:'Times New Roman', Times, serif;}
+
+table{margin-right:auto;
+margin-left: auto;}
+
+#f1{display: flex;
+text-align: left;}
